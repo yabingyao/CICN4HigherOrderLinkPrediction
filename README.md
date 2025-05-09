@@ -16,7 +16,7 @@ ditionally, we investigate the stability of the proposed algorithm and the resul
  CICN remains favorable across training sets of varying sizes.
  ##  Method Overview
 ![CICN](https://github.com/user-attachments/assets/647a3138-5fc5-4a4c-a204-7db9cd8b47ca)
- Figure： Overall framework of CICN for Higher-order link prediction
+ *Figure： Overall framework of CICN for Higher-order link prediction*
 ## Citing
 If you find CICN useful for your research, please consider citing the following paper:
 
