@@ -14,5 +14,6 @@ diction method based on Clustering mutual Information of Common Neighbors (CICN)
  that the higher-order clustering patterns of nodes can significantly improve the accuracy of predicting 3-cliques. Ad
 ditionally, we investigate the stability of the proposed algorithm and the results indicate that the performance of the
  CICN remains favorable across training sets of varying sizes.
- ![image](https://github.com/user-attachments/assets/a06ee065-ff67-429c-aaf2-8fdb8f536d2f)
+ [fig1_2.pdf](https://github.com/user-attachments/files/20114074/fig1_2.pdf)
+
 
