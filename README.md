@@ -30,6 +30,18 @@ If you find CICN useful for your research, please consider citing the following 
   doi={https://doi.org/10.1016/j.jocs.2024.102513},
   url={https://www.sciencedirect.com/science/article/abs/pii/S1877750324003065}
 }
+@article{CICN-2025,
+  title={CICN: Higher-order link prediction with clustering mutual information of common neighbors},
+  author={Yabing Yao and Ziyu Ti and Zhipeng Xu and Yangyang He and Zeguang Liu and Wenxiang Liu and Xiangzhen He and Fuzhong Nian and Jianxin Tang},
+  journal={Journal of Computational Science},
+  volume={85},
+  pages={102513},
+  year={2025},
+  publisher={Elsevier},
+  doi={https://doi.org/10.1016/j.jocs.2024.102513},
+  url={https://www.sciencedirect.com/science/article/abs/pii/S1877750324003065}
+}
+
 
 
 
