@@ -16,6 +16,7 @@ ditionally, we investigate the stability of the proposed algorithm and the resul
  CICN remains favorable across training sets of varying sizes.
  ##  Method Overview
 ![CICN](https://github.com/user-attachments/assets/647a3138-5fc5-4a4c-a204-7db9cd8b47ca)
+ Figure： Overall framework of CICN for Higher-order link prediction
 ## Citing
 If you find CICN useful for your research, please consider citing the following paper:
 
@@ -30,17 +31,7 @@ If you find CICN useful for your research, please consider citing the following 
   doi={https://doi.org/10.1016/j.jocs.2024.102513},
   url={https://www.sciencedirect.com/science/article/abs/pii/S1877750324003065}
 }
-@article{CICN-2025,
-  title={CICN: Higher-order link prediction with clustering mutual information of common neighbors},
-  author={Yabing Yao and Ziyu Ti and Zhipeng Xu and Yangyang He and Zeguang Liu and Wenxiang Liu and Xiangzhen He and Fuzhong Nian and Jianxin Tang},
-  journal={Journal of Computational Science},
-  volume={85},
-  pages={102513},
-  year={2025},
-  publisher={Elsevier},
-  doi={https://doi.org/10.1016/j.jocs.2024.102513},
-  url={https://www.sciencedirect.com/science/article/abs/pii/S1877750324003065}
-}
+
 
 
 
