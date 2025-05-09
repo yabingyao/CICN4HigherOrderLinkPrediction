@@ -15,6 +15,20 @@ diction method based on Clustering mutual Information of Common Neighbors (CICN)
 ditionally, we investigate the stability of the proposed algorithm and the results indicate that the performance of the
  CICN remains favorable across training sets of varying sizes.
 ![CICN](https://github.com/user-attachments/assets/647a3138-5fc5-4a4c-a204-7db9cd8b47ca)
+## Citing
+If you find CICN useful for your research, please consider citing the following paper:
+
+@article{yao2025cicn,
+  title={CICN: Higher-order link prediction with clustering mutual information of common neighbors},
+  author={Yao, Yabing and Ti, Ziyu and Xu, Zhipeng and He, Yangyang and Liu, Zeguang and Liu, Wenxiang and He, Xiangzhen and Nian, Fuzhong and Tang, Jianxin},
+  journal={Journal of Computational Science},
+  volume={85},
+  pages={102513},
+  year={2025},
+  publisher={Elsevier},
+doi={https://doi.org/10.1016/j.jocs.2024.102513},
+url={https://www.sciencedirect.com/science/article/abs/pii/S1877750324003065}
+}
 
 
 
