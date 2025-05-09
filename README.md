@@ -1,1 +1,1 @@
-# CICN4HigherOrderLinkPrediction
+# CICN
