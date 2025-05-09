@@ -27,8 +27,8 @@ If you find CICN useful for your research, please consider citing the following 
   pages={102513},
   year={2025},
   publisher={Elsevier},
-doi={https://doi.org/10.1016/j.jocs.2024.102513},
-url={https://www.sciencedirect.com/science/article/abs/pii/S1877750324003065}
+  doi={https://doi.org/10.1016/j.jocs.2024.102513},
+  url={https://www.sciencedirect.com/science/article/abs/pii/S1877750324003065}
 }
 
 
