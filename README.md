@@ -1,5 +1,5 @@
 
-##  项目名称（CICN）
+##  CICN
 **Yao Y, Ti Z, Xu Z, et al.** [CICN: Higher-order link prediction with clustering mutual information of common neighbors](https://doi.org/10.1016/j.jocs.2024.102513)[J].
 *Journal of Computational Science*, 2025, 85: 102513.
 ## Abstract
@@ -21,7 +21,7 @@ ditionally, we investigate the stability of the proposed algorithm and the resul
 If you find CICN useful for your research, please consider citing the following paper:
 
 ```bibtex
-@article{yao2025cicn,
+@article{CICN2025Yao,
   title={CICN: Higher-order link prediction with clustering mutual information of common neighbors},
   author={Yao, Yabing and Ti, Ziyu and Xu, Zhipeng and He, Yangyang and Liu, Zeguang and Liu, Wenxiang and He, Xiangzhen and Nian, Fuzhong and Tang, Jianxin},
   journal={Journal of Computational Science},
